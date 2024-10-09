@@ -66,7 +66,7 @@ transformer_cost: 5000
 dist_lv_m_per_ha: 150
 
 # Flexible load & pumps
-irrigation_minimum_power: 0.5 # Minimum operation power is 1 kW
+irrigation_minimum_power: 0.5 # Minimum operation power is 0.5, 1, or 2 kW
 irrigation_maximum_power: 9999
 first_season_start:  0     # Jul. 1
 first_season_end:    122   # Oct. 31, which should be included in the season
